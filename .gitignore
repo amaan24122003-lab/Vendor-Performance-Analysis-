@@ -17,3 +17,17 @@ logs/
 
 # Business insight 
 .md
+
+# Large datasets
+Data/purchases.csv
+Data/sales.csv
+New Data/purchases.csv
+New Data/
+
+# Existing exclusions
+__pycache__/
+.ipynb_checkpoints/
+logs/
+*.log
+*.db
+.env
